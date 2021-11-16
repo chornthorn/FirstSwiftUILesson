@@ -75,8 +75,7 @@
 				A033DF502743F2B5004738D0 /* Navigation */,
 				A033DF5827440631004738D0 /* Model */,
 				A033DF512743F2D8004738D0 /* Component */,
-				A033DF472743E44F004738D0 /* CourseView.swift */,
-				A033DF522743F346004738D0 /* CourseList.swift */,
+				A033DF5A27440FF5004738D0 /* Screen */,
 				A033DF1D2743D7C9004738D0 /* DesignCodeCourseApp.swift */,
 				A033DF1F2743D7CA004738D0 /* Assets.xcassets */,
 			);
@@ -124,6 +123,15 @@
 				A033DF5527440304004738D0 /* Course.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		A033DF5A27440FF5004738D0 /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				A033DF522743F346004738D0 /* CourseList.swift */,
+				A033DF472743E44F004738D0 /* CourseView.swift */,
+			);
+			path = Screen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
